@@ -1,0 +1,32 @@
+あるベンチャー受託開発企業代表の方からいただいたお言葉
+「エンジニアはどれだけ壁にぶつかったかが重要」
+
+その企業の新卒2名は入社前に基本情報技術者を取り終えているよう。
+ということで。。。
+エンジニアとして基本的に必要だと言われながら、
+今まで避けてきた基本情報技術者試験の勉強を始める。
+とにかく、壁にぶつかる必要がある。
+
+
+
+1/17(火)
+基本情報技術者試験過去問題：https://www.fe-siken.com/kakomon/03_menjo/q1.html
+
+bit lineを使った論理和の計算
+背景理解度50％
+
+Q1.ビット列をなぜ論理和の算出に使用するのか。
+Q2.ビット列とは何か
+
+
+理解するために参考にしたページ
+bit lineについて
+  https://opiatalk.com/what-is-bit-line-and-word-line/
+  https://medium.com/spidernitt/flash-memory-5477ded015d1
+  
+
+disjunctionについて
+  https://ja.wikipedia.org/wiki/%E8%AB%96%E7%90%86%E5%92%8C
+
+Memoryの基礎について
+  https://www.egr.msu.edu/classes/ece410/mason/files/Ch13.pdf
